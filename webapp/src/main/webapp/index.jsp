@@ -50,7 +50,7 @@
 </div>
 
 <div class="message">
-  <h1>Serge Wishes You</h1>
+  <h1>Serge Wishes You a thanksgiving </h1>
   <h2>Merry Christmas</h2>
   <h1>And</h1>
   <h2>A</h2>
